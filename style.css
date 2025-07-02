@@ -6,7 +6,7 @@
 
 body {
   font-family: sans-serif;
-  background: #b5b5b571
+  background: #b5b5b571;
   color: #333;
   display: flex;
   flex-direction: column;
@@ -14,7 +14,6 @@ body {
 }
 
 .header {
-  background: #b5b5b571
   color: white;
   padding: 2rem;
   text-align: center;
